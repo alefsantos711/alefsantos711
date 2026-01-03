@@ -1,4 +1,4 @@
 ## Olá 👋
 
-- Técnico em Informática
+- HTML, CSS, Python
 - Pronomes: ele/dele
