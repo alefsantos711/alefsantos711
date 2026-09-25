@@ -19,6 +19,6 @@
 - 🤖 Participação em projeto de extensão em Robótica
 - 🌐 Cisco Networking Academy(CCNA 2) — Redes 2
 - 🐍 Cisco Networking Academy(Python Essentials 1) — Python 1
-- 📫 Contato
-## LinkedIn: https://www.linkedin.com/in/alefdasilvasantos/
-## GitHub: https://github.com/alefsantos711
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/alefdasilvasantos/
+- GitHub: https://github.com/alefsantos711
